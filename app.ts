@@ -40,7 +40,7 @@ class User {
 	}
 }
 const user = new User('Ali')
-console.log(user.name) // Ali
+console.log(user.name) 
 user.changeName('Vali')
 console.log(user.name)
 //////////////////////////////////////////////////////
